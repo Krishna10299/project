@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Hello
 Hello friends
 welcome
+=======
+HELLO
+Hello friends
+welcome
+Krishna
+>>>>>>> afc041f8ab68907454e7a677937d74fec40a2c59
